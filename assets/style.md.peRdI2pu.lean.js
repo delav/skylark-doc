@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.926opidB.js";const y=JSON.parse('{"title":"样式美化","description":"","frontmatter":{},"headers":[],"relativePath":"style.md","filePath":"style.md"}'),p={name:"style.md"},l=n("",53),h=[l];function k(e,t,r,E,d,g){return i(),a("div",null,h)}const b=s(p,[["render",k]]);export{y as __pageData,b as default};
