@@ -1,4 +1,4 @@
 ## Skylark文档
 
 
-https://vitepress.yiov.top/
+https://delav.github.io/skylark-doc
