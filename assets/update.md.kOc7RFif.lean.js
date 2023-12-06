@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as i,R as e}from"./chunks/framework.926opidB.js";const b=JSON.parse('{"title":"更新及卸载","description":"","frontmatter":{},"headers":[],"relativePath":"update.md","filePath":"update.md"}'),n={name:"update.md"},l=e("",20),t=[l];function p(d,h,r,c,o,k){return a(),i("div",null,t)}const g=s(n,[["render",p]]);export{b as __pageData,g as default};
