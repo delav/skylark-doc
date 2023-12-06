@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.7M7mM_5n.js";const b=JSON.parse('{"title":"VitePress搭建个人导航","description":"","frontmatter":{},"headers":[],"relativePath":"nav/step.md","filePath":"nav/step.md"}'),l={name:"nav/step.md"},p=n("",72),h=[p];function e(k,t,E,r,d,c){return i(),a("div",null,h)}const y=s(l,[["render",e]]);export{b as __pageData,y as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as i,c as a,R as n}from"./chunks/framework.926opidB.js";const b=JSON.parse('{"title":"页面","description":"","frontmatter":{},"headers":[],"relativePath":"page.md","filePath":"page.md"}'),l={name:"page.md"},p=n("",115),e=[p];function h(t,k,r,E,d,g){return i(),a("div",null,e)}const u=s(l,[["render",h]]);export{b as __pageData,u as default};
