@@ -117,11 +117,14 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '前言', link: '/preface' },
+          { text: '简介', link: '/intro' },
+          { text: '特点', link: '/feature' },
+          { text: '架构', link: '/architecture' },
         ],
       },
       {
         //分组标题2
-        text: '基础配置',
+        text: '基础使用',
         collapsed: false,
         items: [
           { text: '快速上手', link: '/getting-started' },
