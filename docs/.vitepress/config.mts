@@ -124,13 +124,14 @@ export default defineConfig({
       },
       {
         //分组标题2
-        text: '基础使用',
+        text: '功能模块',
         collapsed: false,
         items: [
           { text: '快速上手', link: '/getting-started' },
-          { text: '配置', link: '/configuration' },
-          { text: '页面', link: '/page' },
-          { text: 'Frontmatter', link: '/frontmatter' },
+          { text: '用例设计', link: '/design' },
+          { text: '执行计划', link: '/execution' },
+          { text: '配置管理', link: '/configuration' },
+          { text: '数据统计', link: '/statistics' },
         ],
       },
       {
@@ -148,16 +149,16 @@ export default defineConfig({
           { text: '搭建导航', link: '/nav/step' },
         ],
       },
-      {
-        //分组标题3
-        text: '其他站点',
-        collapsed: false,
-        items: [
-          { text: 'VuePress', link: 'https://vuepress.yiov.top/' },
-          { text: '劝学录教程', link: 'https://yiov.top/' },
-          { text: '个人主页', link: 'https://yingyayi.com/' },
-        ],
-      },
+      // {
+      //   //分组标题3
+      //   text: '其他站点',
+      //   collapsed: false,
+      //   items: [
+      //     { text: 'VuePress', link: 'https://vuepress.yiov.top/' },
+      //     { text: '劝学录教程', link: 'https://yiov.top/' },
+      //     { text: '个人主页', link: 'https://yingyayi.com/' },
+      //   ],
+      // },
     ],
 
 
