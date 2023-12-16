@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,R as a}from"./chunks/framework.7M7mM_5n.js";const h=JSON.parse('{"title":"特点","description":"","frontmatter":{},"headers":[],"relativePath":"feature.md","filePath":"feature.md"}'),c={name:"feature.md"},i=a("",3),l=[i];function d(r,_,s,n,f,u){return o(),t("div",null,l)}const m=e(c,[["render",d]]);export{h as __pageData,m as default};
