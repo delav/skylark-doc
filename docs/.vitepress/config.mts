@@ -134,21 +134,21 @@ export default defineConfig({
           { text: '数据统计', link: '/statistics' },
         ],
       },
-      {
-        //分组标题3
-        text: '进阶玩法',
-        collapsed: false,
-        items: [
-          { text: 'Markdown', link: '/markdown' },
-          { text: '团队', link: '/team' },
-          { text: '静态部署', link: '/assets' },
-          { text: '样式美化', link: '/style' },
-          { text: '组件', link: '/components' },
-          { text: '插件', link: '/plugin' },
-          { text: '更新及卸载', link: '/update' },
-          { text: '搭建导航', link: '/nav/step' },
-        ],
-      },
+      // {
+      //   //分组标题3
+      //   text: '进阶玩法',
+      //   collapsed: false,
+      //   items: [
+      //     { text: 'Markdown', link: '/markdown' },
+      //     { text: '团队', link: '/team' },
+      //     { text: '静态部署', link: '/assets' },
+      //     { text: '样式美化', link: '/style' },
+      //     { text: '组件', link: '/components' },
+      //     { text: '插件', link: '/plugin' },
+      //     { text: '更新及卸载', link: '/update' },
+      //     { text: '搭建导航', link: '/nav/step' },
+      //   ],
+      // },
       // {
       //   //分组标题3
       //   text: '其他站点',
