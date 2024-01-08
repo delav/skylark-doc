@@ -120,6 +120,7 @@ export default defineConfig({
           { text: '简介', link: '/intro' },
           { text: '特点', link: '/feature' },
           { text: '架构', link: '/architecture' },
+          { text: '快速上手', link: '/getting-started' },
         ],
       },
       {
@@ -127,28 +128,22 @@ export default defineConfig({
         text: '功能模块',
         collapsed: false,
         items: [
-          { text: '快速上手', link: '/getting-started' },
           { text: '用例设计', link: '/design' },
           { text: '执行计划', link: '/execution' },
           { text: '配置管理', link: '/configuration' },
           { text: '数据统计', link: '/statistics' },
         ],
       },
-      // {
-      //   //分组标题3
-      //   text: '进阶玩法',
-      //   collapsed: false,
-      //   items: [
-      //     { text: 'Markdown', link: '/markdown' },
-      //     { text: '团队', link: '/team' },
-      //     { text: '静态部署', link: '/assets' },
-      //     { text: '样式美化', link: '/style' },
-      //     { text: '组件', link: '/components' },
-      //     { text: '插件', link: '/plugin' },
-      //     { text: '更新及卸载', link: '/update' },
-      //     { text: '搭建导航', link: '/nav/step' },
-      //   ],
-      // },
+      {
+        //分组标题3
+        text: '配置部署',
+        collapsed: false,
+        items: [
+          { text: '配置说明', link: '/setting' },
+          { text: '项目部署', link: '/deploy' },
+          { text: '平台管理', link: '/manager' },
+        ],
+      },
       // {
       //   //分组标题3
       //   text: '其他站点',
