@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.7M7mM_5n.js";const y=JSON.parse('{"title":"平台管理","description":"","frontmatter":{},"headers":[],"relativePath":"manager.md","filePath":"manager.md"}'),p={name:"manager.md"},t=n("",10),e=[t];function l(h,k,r,E,d,g){return i(),a("div",null,e)}const u=s(p,[["render",l]]);export{y as __pageData,u as default};
