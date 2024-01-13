@@ -12,7 +12,3 @@
 * [skylark](https://github.com/delav/skylark)：基于Django开发的后端服务
 * [skylarkworker](https://github.com/delav/skylarkworker)：专门用于执行测试任务
 * [skylarklibrary](https://github.com/delav/skylarklibrary)：用于开发和迭代功能组件
-
-::: tip 说明
-仓库暂时未开放
-:::
