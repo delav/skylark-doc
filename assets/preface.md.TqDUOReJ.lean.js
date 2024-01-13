@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,R as a}from"./chunks/framework.7M7mM_5n.js";const _=JSON.parse('{"title":"前言","description":"","frontmatter":{},"headers":[],"relativePath":"preface.md","filePath":"preface.md"}'),l={name:"preface.md"},o=a("",7),d=[o];function s(h,n,c,i,k,b){return e(),r("div",null,d)}const f=t(l,[["render",s]]);export{_ as __pageData,f as default};
